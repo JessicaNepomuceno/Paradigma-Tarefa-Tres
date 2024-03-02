@@ -1,5 +1,17 @@
+# [English] Company: Paradigma
 
-Company: Paradigma
+Program Name: Technical Evaluation - Task 03
+
+Description: Develop an algorithm that, given a set of integers, returns the index position of the sum of two numbers from that set. You can assume that each set of numbers has only one solution, and you cannot use the same number twice.
+
+Author: Jéssica Alves Nepomuceno
+
+Created date: 10th March 2023
+
+Observation: To run the application, download the file: Executavel_Tarefa_Tres.zip, unzip it, and run the .exe file.
+<br />
+<br />
+# [Português] Company: Paradigma
  
 Program Name: Avaliação Técnica - Tarefa 03
 
